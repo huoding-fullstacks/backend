@@ -15,7 +15,10 @@ require (
 	github.com/go-openapi/validate v0.19.2
 	github.com/jianfengye/collection v0.0.0-20190620142820-c4fe771a3171
 	github.com/jinzhu/gorm v1.9.8
+	github.com/pkg/errors v0.8.0
 	github.com/sirupsen/logrus v1.4.2
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a
 	github.com/spf13/viper v1.4.0
+	github.com/sundy-li/html2article v0.0.0-20180131134645-09ac198090c2
+	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b // indirect
 )
